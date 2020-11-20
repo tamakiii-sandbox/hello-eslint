@@ -7,7 +7,7 @@ setup:
 	type npm
 
 install:
-	npm install
+	npm install --dev
 
 clean:
 	rm node_modules
