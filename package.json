@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tamakiii-sandbox/hello-eslint/issues"
   },
-  "homepage": "https://github.com/tamakiii-sandbox/hello-eslint#readme"
+  "homepage": "https://github.com/tamakiii-sandbox/hello-eslint#readme",
+  "devDependencies": {
+    "eslint": "^7.13.0"
+  }
 }
